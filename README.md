@@ -6,7 +6,7 @@ This repository contains the code of the Pre-Recorded Content Adaptation Algorit
 
 ## Setup
 
-The TRACTION Pre Recorded Content Adaptation Algorithm is deployed within the <a href=https://github.com/Dash-Industry-Forum/dash.js?>dash.js reference player</a> under `/dash.js/src/streaming/rules/abr`. The file containing the algorithm's logic is `PadaRule.js`. 
+The TRACTION Pre Recorded Content Adaptation Algorithm is deployed within the <a href=https://github.com/Dash-Industry-Forum/dash.js?>dash.js reference player</a> under `/PreRecordedContentAdaptation/src/streaming/rules/abr`. The file containing the algorithm's logic is `PadaRule.js`. 
 
 To use the Pre-Recorded Content Adaptation Algorithm, first you need to create a video element on your html file. Make sure the controls attribute is present. 
 ```html
