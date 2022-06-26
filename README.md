@@ -87,7 +87,7 @@ var quality     = player.getQualityFor('type');
 To be able to add or modify `PadaRule.js`, you need to do the follwoing steps: 
 
 1. Install [node.js](http://nodejs.org/).
-2. Chekout the project repository (```git clone https://github.com/traction-project/PreRecordedContentAdaptation.git```). 
+2. Checkout the project repository (```git clone https://github.com/traction-project/PreRecordedContentAdaptation.git```). 
 3. Install dependencies (```npm install```). 
 4. Add or make changes to `PadaRule.js`.  
 5. Build, watch file changes, and launch samples page (```npm run start```).
