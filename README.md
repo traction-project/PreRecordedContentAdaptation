@@ -98,3 +98,6 @@ Full [API Documentation](http://cdn.dashjs.org/latest/jsdoc/module-MediaPlayer.h
 
 For help, join [Slack channel](https://dashif-slack.azurewebsites.net) or the [email list](https://groups.google.com/d/forum/dashjs). 
  
+## Documentation
+
+The documentation is available here: https://traction-project.github.io/PreRecordedContentAdaptation
