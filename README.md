@@ -4,6 +4,10 @@ This repository contains the code of the Pre-Recorded Content Adaptation Algorit
 
 <img src="https://www.traction-project.eu/wp-content/uploads/sites/3/2020/02/Logo-cabecera-Traction.png" align="left"/><em>This tool was originally developed as part of the <a href="https://www.traction-project.eu/">TRACTION</a> project, funded by the European Commission’s <a hef="http://ec.europa.eu/programmes/horizon2020/">Horizon 2020</a> research and innovation programme under grant agreement No. 870610.</em>
 
+## Documentation
+
+The documentation is available here: https://traction-project.github.io/PreRecordedContentAdaptation
+
 ## Setup
 
 The TRACTION Pre Recorded Content Adaptation Algorithm is deployed within the <a href=https://github.com/Dash-Industry-Forum/dash.js?>dash.js reference player</a> under `/PreRecordedContentAdaptation/src/streaming/rules/abr`. The file containing the algorithm's logic is `PadaRule.js`. 
