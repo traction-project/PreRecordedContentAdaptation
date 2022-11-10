@@ -101,7 +101,3 @@ To be able to add or modify `PadaRule.js`, you need to do the follwoing steps:
 Full [API Documentation](http://cdn.dashjs.org/latest/jsdoc/module-MediaPlayer.html) is available describing all public methods, interfaces, properties, and events.
 
 For help, join [Slack channel](https://dashif-slack.azurewebsites.net) or the [email list](https://groups.google.com/d/forum/dashjs). 
- 
-## Documentation
-
-The documentation is available here: https://traction-project.github.io/PreRecordedContentAdaptation
