@@ -10,7 +10,7 @@ The documentation is available here: https://traction-project.github.io/PreRecor
 
 ## Setup
 
-The TRACTION Pre Recorded Content Adaptation Algorithm is deployed within the <a href=https://github.com/Dash-Industry-Forum/dash.js?>dash.js reference player</a> under `/PreRecordedContentAdaptation/src/streaming/rules/abr`. The file containing the algorithm's logic is `PadaRule.js`. 
+The TRACTION Pre-Recorded Content Adaptation Algorithm is deployed within the <a href=https://github.com/Dash-Industry-Forum/dash.js?>dash.js reference player</a> under `/PreRecordedContentAdaptation/src/streaming/rules/abr`. The file containing the algorithm's logic is `PadaRule.js`. 
 
 To use the Pre-Recorded Content Adaptation Algorithm, first you need to create a video element on your html file. Make sure the controls attribute is present. 
 ```html
@@ -88,7 +88,7 @@ var quality     = player.getQualityFor('type');
 
 ## Adding/ modifying the Pre-Recorded Content Adaptation Algorithm
 
-To be able to add or modify `PadaRule.js`, you need to do the follwoing steps: 
+To be able to add or modify `PadaRule.js`, you need to do the following steps: 
 
 1. Install [node.js](http://nodejs.org/).
 2. Checkout the project repository (```git clone https://github.com/traction-project/PreRecordedContentAdaptation.git```). 
